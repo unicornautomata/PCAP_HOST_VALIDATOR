@@ -1,0 +1,10 @@
+SOC PCAP Analysis Output
+=========================
+
+google.com → KNOWN_GOOD
+github.com → KNOWN_GOOD
+login-update-security.com → MALICIOUS
+cdn.cloudflare.com → KNOWN_GOOD
+random-suspicious-domain.xyz → SUSPICIOUS
+api.openai.com → KNOWN_GOOD
+unknown-beaconing-domain.net → LIKELY_SAFE_BUT_UNKNOWN
