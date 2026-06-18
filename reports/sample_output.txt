@@ -1,0 +1,4 @@
+google.com → KNOWN_GOOD
+github.com → KNOWN_GOOD
+malicious-site.xyz → MALICIOUS
+unknown-host.net → UNKNOWN
