@@ -84,6 +84,7 @@ Risk Classification Engine
           ↓
 Security Output Report
 
+---
 
 ## 📸 Sample Output
 
