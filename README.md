@@ -83,3 +83,20 @@ VirusTotal API Enrichment
 Risk Classification Engine
           ↓
 Security Output Report
+
+
+## 📸 Sample Output
+
+
+google.com → KNOWN_GOOD
+github.com → KNOWN_GOOD
+malicious-site.xyz → MALICIOUS
+unknown-host.net → UNKNOWN
+
+
+## 🖥️ Terminal View
+Example execution of the SOC PCAP Analysis tool showing host extraction, VirusTotal enrichment, and risk classification.
+
+![SOC Analysis Output](screenshots/sample_output.PNG)
+
+---
